@@ -4,7 +4,7 @@ Litware, Inc. is rapidly expanding their toll booth management business to opera
 
 ## Target Audience
 
-Application Developers
+Application Developers & Technical Architects
 
 ## Abstract
 
@@ -26,10 +26,6 @@ Learning Objectives:
 
 - Implement a Continuous Deployment DevOps process to automatically publish changes to Function Apps.
 
-### Whiteboard Design Session
-
-In this whiteboard design session, you will work with a group to design a solution for processing vehicle photos as they are uploaded to a storage account, using serverless technologies on Azure. The license plate data needs to be extracted and stored in a highly available NoSQL data store for exporting. The data export process will be orchestrated by a serverless Azure component that coordinates exporting new license plate data to file storage and sending notifications as needed. You will also configured a Continuous Deployment process to automatically publish new changes to Function Apps. Finally, the entire processing pipeline will need to be monitored, with particular attention paid to components scaling to meet processing demand.
-
 ### Hands-on Lab
 
 The Serverless architecture hands-on lab is an exercise that will challenge you to implement an end-to-end scenario using a supplied sample that is based on Microsoft Azure Functions, Azure Cosmos DB, Event Grid, and related services. The scenario will include implementing compute, storage, workflows, and monitoring, using various components of Microsoft Azure. The hands-on lab can be implemented on your own, but it is highly recommended to pair up with other members at the lab to model a real-world experience and to allow each member to share their expertise for the overall solution.
@@ -42,11 +38,3 @@ The Serverless architecture hands-on lab is an exercise that will challenge you 
 - Application Insights
 - AzureCosmos DB
 - Logic Apps
-
-## Azure solution
-
-_This is an internal reference and will be updated by project PM._
-
-## Related references
-
-[MCW](https://github.com/Microsoft/MCW)
